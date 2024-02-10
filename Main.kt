@@ -8,7 +8,7 @@ var phoneNumber: Int = +254113912600
 var weight: Float = "73"
     println("weight")
 val citizen: True
-val citizen: False
+val notCitizen: False
 
 
 }
